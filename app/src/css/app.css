@@ -1,0 +1,10 @@
+body{
+	background-color: aliceblue;
+}
+
+img, .paper{
+	width: 300px;
+	height: 200px;
+	cursor: pointer;
+	margin: 2%;
+}

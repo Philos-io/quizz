@@ -23,6 +23,7 @@ System.config({
     "material-ui": "npm:material-ui@0.8.0",
     "react": "npm:react@0.13.3",
     "react-draggable2": "npm:react-draggable2@0.5.1",
+    "react-router": "npm:react-router@0.13.3",
     "github:jspm/nodelibs-assert@0.1.0": {
       "assert": "npm:assert@1.3.0"
     },
@@ -103,6 +104,12 @@ System.config({
     },
     "npm:path-browserify@0.0.0": {
       "process": "github:jspm/nodelibs-process@0.1.1"
+    },
+    "npm:react-router@0.13.3": {
+      "object-assign": "npm:object-assign@2.0.0",
+      "process": "github:jspm/nodelibs-process@0.1.1",
+      "qs": "npm:qs@2.4.1",
+      "react": "npm:react@0.13.3"
     },
     "npm:react-tap-event-plugin@0.1.7": {
       "process": "github:jspm/nodelibs-process@0.1.1",
